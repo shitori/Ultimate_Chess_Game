@@ -1,0 +1,2 @@
+Liste de coup effectuer :
+Tour 1: d � d�placer pion 1 de la case 2 A vers la case 4 A

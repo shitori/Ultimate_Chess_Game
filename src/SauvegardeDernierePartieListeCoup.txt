@@ -1,0 +1,10 @@
+
+Liste de coup effectuer :
+Tour 1: b à déplacer pion 5 de la case 2 E vers la case 4 E
+Tour 2: a à déplacer pion 5 de la case 7 E vers la case 5 E
+Tour 3: b à déplacer dame 1 de la case 1 D vers la case 5 H
+Tour 4: a à déplacer cavalier 1 de la case 8 B vers la case 6 C
+Tour 5: b à déplacer fou 2 de la case 1 F vers la case 4 C
+Tour 6: a à déplacer cavalier 2 de la case 8 G vers la case 6 F
+Tour 7: b à déplacer dame 1 de la case 5 H vers la case 7 F
+Tour 8: a à déplacer roi 1 de la case 8 E vers la case 7 F

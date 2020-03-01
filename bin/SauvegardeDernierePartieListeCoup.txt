@@ -1,0 +1,2 @@
+Liste de coup effectuer :
+Tour 1: b à déplacer pion 5 de la case 2 E vers la case 4 E
